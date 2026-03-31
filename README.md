@@ -47,7 +47,6 @@ The analysis moves from a broad overview of all main categories down to a focuse
 |---|---|
 | `AneetKaur_25038579_A3.twbx` | Packaged Tableau workbook with all dashboards and storyboard |
 | `AneetKaur_25038579_A3.xlsx` | Excel file with statistical and analytical pattern preparation |
-| `AneetKaur_25038579_A3.docx` | Full written report with chart explanations and recommendations |
 
 ---
 
